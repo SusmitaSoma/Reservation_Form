@@ -1,2 +1,2 @@
 # Reservation_Form
-Reservation_Form ysing only HTML
+Reservation_Form using only HTML
